@@ -312,7 +312,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="520"/>
         <source>Show Bookmarks</source>
-        <translation>Erakutsi lastermarkak</translation>
+        <translation>Erakutsi laster-markak</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="529"/>
@@ -347,12 +347,12 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="571"/>
         <source>Preferences</source>
-        <translation>Ezarpenak</translation>
+        <translation>Hobespenak</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="574"/>
         <source>Display Preferences</source>
-        <translation>Erakutsi ezarpenak</translation>
+        <translation>Erakutsi hobespenak</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="586"/>
@@ -393,7 +393,7 @@
         <location filename="../forms/mainWindow.ui" line="631"/>
         <location filename="../forms/mainWindow.ui" line="1264"/>
         <source>Zoom In</source>
-        <translation>Zoom egin</translation>
+        <translation>Handiagotu</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="634"/>
@@ -409,7 +409,7 @@
         <location filename="../forms/mainWindow.ui" line="646"/>
         <location filename="../forms/mainWindow.ui" line="1277"/>
         <source>Zoom Out</source>
-        <translation>Zooma kendu</translation>
+        <translation>Txikiagotu</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="649"/>
