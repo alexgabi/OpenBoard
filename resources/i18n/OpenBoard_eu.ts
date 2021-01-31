@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="eu_ES">
+<TS version="2.1" language="eu">
 <context>
     <name>BlackoutWidget</name>
     <message>
@@ -24,7 +24,7 @@
     <message>
         <location filename="../../src/web/browser/downloads.ui" line="55"/>
         <source>0 Items</source>
-        <translation>0 item</translation>
+        <translation>0 elementu</translation>
     </message>
 </context>
 <context>
@@ -37,7 +37,7 @@
     <message>
         <location filename="../../src/web/browser/downloaditem.ui" line="44"/>
         <source>Filename</source>
-        <translation>Fitxategi izena</translation>
+        <translation>Fitxategi-izena</translation>
     </message>
     <message>
         <location filename="../../src/web/browser/downloaditem.ui" line="91"/>
@@ -160,7 +160,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="244"/>
         <source>PgUp</source>
-        <translation>OrriaGora</translation>
+        <translation>PgUp</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="253"/>
@@ -176,7 +176,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="259"/>
         <source>PgDown</source>
-        <translation>OrriaBehera</translation>
+        <translation>PgDown</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="274"/>
@@ -191,7 +191,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="289"/>
         <source>Web Browsing</source>
-        <translation>Sare arakatzea</translation>
+        <translation>Web arakatzea</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="292"/>
@@ -695,12 +695,12 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1120"/>
         <source>Erase Items</source>
-        <translation>Ezabatu itemak</translation>
+        <translation>Ezabatu elementuak</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1123"/>
         <source>Erase All Items</source>
-        <translation>Ezabatu item guztiak</translation>
+        <translation>Ezabatu elementu guztiak</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1132"/>
@@ -731,7 +731,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1175"/>
         <source>Annotate Document</source>
-        <translation>Gehit oharrak dokumentuan</translation>
+        <translation>Gehitu oharrak dokumentuan</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1178"/>
@@ -756,7 +756,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1213"/>
         <source>Highlight </source>
-        <translation>Azpimarratu</translation>
+        <translation>Nabarmendu</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1216"/>
@@ -786,17 +786,17 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1251"/>
         <source>Scroll Page</source>
-        <translation>Jeitsi orria</translation>
+        <translation>Korritu orria</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1290"/>
         <source>Laser Pointer</source>
-        <translation>Laser puntua</translation>
+        <translation>Laser-punteroa</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1293"/>
         <source>Virtual Laser Pointer</source>
-        <translation>Laser puntu birtuala</translation>
+        <translation>Laser-puntuero birtuala</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1296"/>
@@ -831,13 +831,13 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1347"/>
         <source>Capture</source>
-        <translation>Kapturatu</translation>
+        <translation>Pantaila-argazkia</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1350"/>
         <location filename="../forms/mainWindow.ui" line="1510"/>
         <source>Capture Part of the Screen</source>
-        <translation>Kapturatu pantailaren zati bat</translation>
+        <translation>Pantailaren zati baten argazkia</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1359"/>
@@ -848,7 +848,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1365"/>
         <source>Add Item To Current Page</source>
-        <translation>Gehitu itema uneko orrira</translation>
+        <translation>Gehitu elementua uneko orrira</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1374"/>
@@ -858,7 +858,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1377"/>
         <source>Add Item To New Page</source>
-        <translation>Gehitu itema orri berrira</translation>
+        <translation>Gehitu elementua orri berrira</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1386"/>
@@ -868,7 +868,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1389"/>
         <source>Add Item To Library</source>
-        <translation>Gehitu itema liburutegira</translation>
+        <translation>Gehitu elementua liburutegira</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1401"/>
@@ -914,62 +914,62 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1458"/>
         <source>Pause Podcast Recording</source>
-        <translation>Gelditu Podcast-aren grabaketa</translation>
+        <translation>Pausatu Podcast-aren grabaketa</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1467"/>
         <source>Podcast Config</source>
-        <translation>Podcast konfiguratu</translation>
+        <translation>Podcastaren ezarpenak</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1470"/>
         <source>Configure Podcast Recording</source>
-        <translation>Konfiguratu podcast-aren grabaketa</translation>
+        <translation>Konfiguratu podcastaren grabaketa</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1479"/>
         <source>Flash Trap</source>
-        <translation></translation>
+        <translation>Flash desbideraketa</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1482"/>
         <source>Trap Flash Content</source>
-        <translation></translation>
+        <translation>Desbideratu Flash edukiak</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1495"/>
         <source>Web Trap</source>
-        <translation></translation>
+        <translation>Web desbideraketa</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1498"/>
         <source>Trap Web Content</source>
-        <translation></translation>
+        <translation>Desbideratu web edukiak</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1507"/>
         <source>Custom Capture</source>
-        <translation>Pertsonalizatutako kaptura</translation>
+        <translation>Pertsonalizatutako pantaila-argazkia</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1519"/>
         <source>Window Capture</source>
-        <translation>Leiho kaptura</translation>
+        <translation>Leiho osoare argazkia</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1522"/>
         <source>Capture a Window</source>
-        <translation>Leiho bat kapturatu</translation>
+        <translation>Leiho baten argazkia</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1534"/>
         <source>Embed Web Content</source>
-        <translation>Kabiatutako web edukia</translation>
+        <translation>Kapsulatu web edukia</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1537"/>
         <source>Capture Embeddable Web Content</source>
-        <translation>Kapturatu kabiatutako web edukia</translation>
+        <translation>Atzitu web eduki kapsulagarria</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1550"/>
@@ -1024,7 +1024,7 @@
     <message>
         <location filename="../forms/mainWindow.ui" line="1623"/>
         <source>Interact with items</source>
-        <translation>Itemekin elkar ekin</translation>
+        <translation>Elementuekin  elkar ekin</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1632"/>
@@ -1057,7 +1057,7 @@
     <message>
         <location filename="../../src/web/browser/passworddialog.ui" line="44"/>
         <source>Username:</source>
-        <translation>Erabiltzailea:</translation>
+        <translation>Erabiltzaile-izena:</translation>
     </message>
     <message>
         <location filename="../../src/web/browser/passworddialog.ui" line="54"/>
@@ -1080,7 +1080,7 @@
     <message>
         <location filename="../../src/web/browser/proxy.ui" line="37"/>
         <source>Username:</source>
-        <translation>Erabiltzailea:</translation>
+        <translation>Erabiltzaile-izena:</translation>
     </message>
     <message>
         <location filename="../../src/web/browser/proxy.ui" line="47"/>
@@ -1090,7 +1090,7 @@
     <message>
         <location filename="../../src/web/browser/proxy.ui" line="71"/>
         <source>Save username and password for future use</source>
-        <translation>Gorde erabltzailea eta pasahitza etorkizuneko erabiletarako</translation>
+        <translation>Gorde erabltzailea eta pasahitza hurrengo erabiletarako</translation>
     </message>
 </context>
 <context>
@@ -1098,12 +1098,12 @@
     <message>
         <location filename="../../src/gui/UBThumbnailWidget.cpp" line="858"/>
         <source>Remove Page</source>
-        <translation>Ezabatu orrialdea</translation>
+        <translation>Kendu orrialdea</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBThumbnailWidget.cpp" line="858"/>
         <source>Are you sure you want to remove 1 page from the selected document &apos;%0&apos;?</source>
-        <translation>Ziur zaude orri bat ezabatu nahi duzulua &apos;%0&apos; dokumentutik?</translation>
+        <translation>Ziur zaude orri bat kendu nahi duzulua &apos;%0&apos; dokumentutik?</translation>
     </message>
 </context>
 <context>
@@ -1111,12 +1111,12 @@
     <message>
         <location filename="../../src/core/UBApplication.cpp" line="499"/>
         <source>Page Size</source>
-        <translation>Orri tamaina</translation>
+        <translation>Orriaren tamaina</translation>
     </message>
     <message>
         <location filename="../../src/core/UBApplication.cpp" line="524"/>
         <source>Podcast</source>
-        <translation>Podcast-a</translation>
+        <translation>Podcasta</translation>
     </message>
 </context>
 <context>
@@ -1124,7 +1124,7 @@
     <message>
         <location filename="../../src/core/UBApplicationController.cpp" line="334"/>
         <source>Web</source>
-        <translation>Web-a</translation>
+        <translation>Weba</translation>
     </message>
     <message>
         <location filename="../../src/core/UBApplicationController.cpp" line="568"/>
@@ -1139,7 +1139,7 @@
     <message>
         <location filename="../../src/core/UBApplicationController.cpp" line="575"/>
         <source>Update</source>
-        <translation>Eguneraketa</translation>
+        <translation>Eguneratu</translation>
     </message>
     <message>
         <location filename="../../src/core/UBApplicationController.cpp" line="575"/>
@@ -1152,7 +1152,7 @@
     <message>
         <location filename="../../src/gui/UBBackgroundPalette.cpp" line="48"/>
         <source>Grid size</source>
-        <translation>Sareta tamaina</translation>
+        <translation>Saretaren tamaina</translation>
     </message>
 </context>
 <context>
@@ -1165,7 +1165,7 @@
     <message>
         <location filename="../../src/board/UBBoardController.cpp" line="112"/>
         <source>Ungroup</source>
-        <translation>Taldekatzea kendu</translation>
+        <translation>Taldekatzea askatu</translation>
     </message>
     <message>
         <location filename="../../src/board/UBBoardController.cpp" line="431"/>
@@ -1175,7 +1175,7 @@
     <message>
         <location filename="../../src/board/UBBoardController.cpp" line="437"/>
         <source>Document has just been saved...</source>
-        <translation>Dokumentua oraintxe izan da gordea...</translation>
+        <translation>Dokumentua gorde da</translation>
     </message>
     <message>
         <location filename="../../src/board/UBBoardController.cpp" line="772"/>
@@ -1195,7 +1195,7 @@
     <message>
         <location filename="../../src/board/UBBoardController.cpp" line="1130"/>
         <source>Download finished</source>
-        <translation>Deskarga amaitua</translation>
+        <translation>Deskarga burutu da</translation>
     </message>
     <message>
         <location filename="../../src/board/UBBoardController.cpp" line="1248"/>
@@ -1218,7 +1218,7 @@
     <message>
         <location filename="../../src/board/UBBoardController.cpp" line="2524"/>
         <source>Add Item</source>
-        <translation>Gehitu itema</translation>
+        <translation>Gehitu elementua</translation>
     </message>
     <message>
         <location filename="../../src/board/UBBoardController.cpp" line="2526"/>
@@ -1231,12 +1231,12 @@
     <message>
         <location filename="../../src/board/UBBoardPaletteManager.cpp" line="897"/>
         <source>CapturedImage</source>
-        <translation>KapturatutakoIrudia</translation>
+        <translation>Kapturatutako Irudia</translation>
     </message>
     <message>
         <location filename="../../src/board/UBBoardPaletteManager.cpp" line="902"/>
         <source>Error Adding Image to Library</source>
-        <translation>Errorea Irudai liburutegira gehitzean</translation>
+        <translation>Errorea Irudia liburutegira gehitzean</translation>
     </message>
 </context>
 <context>
@@ -1277,17 +1277,17 @@
     <message>
         <location filename="../../src/desktop/UBDesktopPalette.cpp" line="69"/>
         <source>Capture Part of the Screen</source>
-        <translation>Kapturatu pantailaren zati bat</translation>
+        <translation>Pantailaren zati baten argazkia egin</translation>
     </message>
     <message>
         <location filename="../../src/desktop/UBDesktopPalette.cpp" line="73"/>
         <source>Capture the Screen</source>
-        <translation>Kapturatu pantaila</translation>
+        <translation>Pantailaren argazkia egin</translation>
     </message>
     <message>
         <location filename="../../src/desktop/UBDesktopPalette.cpp" line="94"/>
         <source>Show the stylus palette</source>
-        <translation>Erakutsi stylus paleta</translation>
+        <translation>Erakutsi arkatzaren paleta</translation>
     </message>
     <message>
         <location filename="../../src/desktop/UBDesktopPalette.cpp" line="144"/>
@@ -1311,7 +1311,7 @@
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="86"/>
         <source>Untitled Documents</source>
-        <translation>Izengabeko dokumentuak</translation>
+        <translation>Izenin gabeko dokumentuak</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="196"/>
@@ -1322,7 +1322,7 @@
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="312"/>
         <source>Add Folder of Images</source>
-        <translation>Gehitu irudien karpeta</translation>
+        <translation>Gehitu irudi-karpeta</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="313"/>
@@ -1367,37 +1367,37 @@
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="797"/>
         <source>Remove Document</source>
-        <translation>Ezabatu dokumentua</translation>
+        <translation>Kendu dokumentua</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="798"/>
         <source>Are you sure you want to remove the document &apos;%1&apos;?</source>
-        <translation>Ziur zaude &apos;%1&apos; dokumentua ezabatu nahi duzula?</translation>
+        <translation>Ziur zaude &apos;%1&apos; dokumentua kendu nahi duzula?</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="823"/>
         <source>Remove Folder</source>
-        <translation>Ezabatu karpeta</translation>
+        <translation>Kendu karpeta</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="824"/>
         <source>Are you sure you want to remove the folder &apos;%1&apos; and all its content?</source>
-        <translation>Ziur zaude &apos;%1&apos; karpeta eta bere eduki guztia borratu nahi dituzula?</translation>
+        <translation>Ziur zaude &apos;%1&apos; karpeta eta bere eduki guztia kendu nahi dituzula?</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="844"/>
         <source>Remove multiple documents</source>
-        <translation>Ezabatu dokumentu anitzak</translation>
+        <translation>Kendu hainbat dokumentu</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="845"/>
         <source>Are you sure you want to remove all selected documents?</source>
-        <translation>Ziur zaude aukeratutako dokumentuak ezabatu nahi dituzula?</translation>
+        <translation>Ziur zaude aukeratutako dokumentuak kendu nahi dituzula?</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="890"/>
         <source>No document selected!</source>
-        <translation>Ez da dokumenturik aukeratu!</translation>
+        <translation>Ez da dokumenturik hautatu!</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="1043"/>
@@ -1460,19 +1460,19 @@
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="1672"/>
         <source>Selection does not contain any image files!</source>
-        <translation>Aukeraketak ez du inongo irudi fitxategirik!</translation>
+        <translation>Hautapenak ez du irudi-fitxategirik!</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="1785"/>
         <source>Remove Page</source>
-        <translation>Ezabatu orria</translation>
+        <translation>Kendu orria</translation>
     </message>
     <message numerus="yes">
         <location filename="../../src/document/UBDocumentController.cpp" line="1785"/>
         <source>Are you sure you want to remove %n page(s) from the selected document &apos;%1&apos;?</source>
         <translation>
-            <numerusform>Ziur zaude orri %n ezabatu nahi duzula &apos;%1&apos; dokumentutik?</numerusform>
-            <numerusform>Ziur zaude %n orri ezabatu nahi dituzula &apos;%1&apos; dokumentutik?</numerusform>
+            <numerusform>Ziur zaude orri %n kendu nahi duzula &apos;%1&apos; dokumentutik?</numerusform>
+            <numerusform>Ziur zaude %n orri kendu nahi dituzula &apos;%1&apos; dokumentutik?</numerusform>
         </translation>
     </message>
     <message>
@@ -1517,7 +1517,7 @@
     <message>
         <location filename="../../src/core/UBDocumentManager.cpp" line="184"/>
         <source>Import successful.</source>
-        <translation>Inportazio arrakastatsua.</translation>
+        <translation>Inportazioa behar bezala burutu da.</translation>
     </message>
     <message>
         <location filename="../../src/core/UBDocumentManager.cpp" line="201"/>
@@ -1527,12 +1527,12 @@
     <message>
         <location filename="../../src/core/UBDocumentManager.cpp" line="247"/>
         <source>Import of file %1 successful.</source>
-        <translation>%1 fitxategiaren inportazio arrakastatsua.</translation>
+        <translation>%1 fitxategiaren inportazioa behar bezla burutu da.</translation>
     </message>
     <message>
         <location filename="../../src/core/UBDocumentManager.cpp" line="290"/>
         <source>File %1 saved</source>
-        <translation>%1 fitxategia gordea</translation>
+        <translation>%1 fitxategia gorde da</translation>
     </message>
 </context>
 <context>
@@ -1559,7 +1559,7 @@
         <location filename="../../src/gui/UBDocumentTreeWidget.cpp" line="351"/>
         <source>%1 pages copied</source>
         <translation>
-            <numerusform>orri %1 kopiatua</numerusform>
+            <numerusform>%1 orri kopiatu diraa</numerusform>
             <numerusform>%1 orri kopiatua</numerusform>
         </translation>
     </message>
@@ -1569,12 +1569,12 @@
     <message>
         <location filename="../../src/gui/UBDownloadWidget.cpp" line="55"/>
         <source>Downloading files</source>
-        <translation>Fitxategiak jeisten</translation>
+        <translation>Fitxategiak deskargatzen</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBDownloadWidget.cpp" line="74"/>
         <source>Cancel</source>
-        <translation>Ezeztatu</translation>
+        <translation>Utzi</translation>
     </message>
 </context>
 <context>
@@ -1602,12 +1602,12 @@
     <message>
         <location filename="../../src/adaptors/UBExportAdaptor.cpp" line="157"/>
         <source>Export successful.</source>
-        <translation>Esportazio arrakastatsua.</translation>
+        <translation>Esportazioa behar bezala burutu da.</translation>
     </message>
     <message>
         <location filename="../../src/adaptors/UBExportAdaptor.cpp" line="176"/>
         <source>Warnings during export was appeared</source>
-        <translation>Esportazioan zehar arazoak egon dira</translation>
+        <translation>Esportazioan zehar alertak egon dira</translation>
     </message>
 </context>
 <context>
@@ -1638,12 +1638,12 @@
     <message>
         <location filename="../../src/adaptors/UBExportFullPDF.cpp" line="138"/>
         <source>Export as PDF File</source>
-        <translation>Esportatu PDF fitxategira</translation>
+        <translation>Esportatu PDF fitxategi gisa</translation>
     </message>
     <message>
         <location filename="../../src/adaptors/UBExportFullPDF.cpp" line="276"/>
         <source>Export to PDF</source>
-        <translation>Esportatu PDFra</translation>
+        <translation>Esportatu PDF gisa</translation>
     </message>
 </context>
 <context>
@@ -1651,7 +1651,7 @@
     <message>
         <location filename="../../src/adaptors/UBExportPDF.cpp" line="63"/>
         <source>Export as PDF File</source>
-        <translation>Esportatu PDF fitxategira</translation>
+        <translation>Esportatu PDF fitxategi gisa</translation>
     </message>
     <message>
         <location filename="../../src/adaptors/UBExportPDF.cpp" line="91"/>
@@ -1661,7 +1661,7 @@
     <message>
         <location filename="../../src/adaptors/UBExportPDF.cpp" line="130"/>
         <source>Export to PDF</source>
-        <translation>Esportatu PDFra</translation>
+        <translation>Esportatu PDF gisa</translation>
     </message>
 </context>
 <context>
@@ -1674,7 +1674,7 @@
     <message>
         <location filename="../../src/adaptors/UBExportWeb.cpp" line="67"/>
         <source>Export as Web data</source>
-        <translation>Esportatu Web datu mduan</translation>
+        <translation>Esportatu Web datu gisa</translation>
     </message>
     <message>
         <location filename="../../src/adaptors/UBExportWeb.cpp" line="72"/>
@@ -1684,7 +1684,7 @@
     <message>
         <location filename="../../src/adaptors/UBExportWeb.cpp" line="81"/>
         <source>Export successful.</source>
-        <translation>Esportazio arraskatatsua.</translation>
+        <translation>Esportazio behar bezala burutu da.</translation>
     </message>
     <message>
         <location filename="../../src/adaptors/UBExportWeb.cpp" line="87"/>
@@ -1707,7 +1707,7 @@
     <message>
         <location filename="../../src/gui/UBFeaturesWidget.cpp" line="901"/>
         <source>Set as background</source>
-        <translation>Ezarri atzeko plano moduan</translation>
+        <translation>Ezarri atzeko plano gisa</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBFeaturesWidget.cpp" line="905"/>
@@ -1725,12 +1725,12 @@
     <message>
         <location filename="../../src/gui/UBFeaturesActionBar.cpp" line="71"/>
         <source>Add to favorites</source>
-        <translation>Gehitu gogokoenetara</translation>
+        <translation>Gehitu gogokoetara</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBFeaturesActionBar.cpp" line="72"/>
         <source>Share</source>
-        <translation>Elkarbanatu</translation>
+        <translation>Partekatu</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBFeaturesActionBar.cpp" line="73"/>
@@ -1750,12 +1750,12 @@
     <message>
         <location filename="../../src/gui/UBFeaturesActionBar.cpp" line="76"/>
         <source>Back to folder</source>
-        <translation>Atzera karpetara</translation>
+        <translation>Bueltatu karpetara</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBFeaturesActionBar.cpp" line="77"/>
         <source>Remove from favorites</source>
-        <translation>Ezabatu gogokoenetatik</translation>
+        <translation>Kendu gogokoetatik</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBFeaturesActionBar.cpp" line="78"/>
@@ -1773,7 +1773,7 @@
     <message>
         <location filename="../../src/board/UBFeaturesController.cpp" line="335"/>
         <source>Movies</source>
-        <translation>Filmak</translation>
+        <translation>Bideoak</translation>
     </message>
     <message>
         <location filename="../../src/board/UBFeaturesController.cpp" line="336"/>
@@ -1788,7 +1788,7 @@
     <message>
         <location filename="../../src/board/UBFeaturesController.cpp" line="338"/>
         <source>Interactivities</source>
-        <translation>Interjarduerak</translation>
+        <translation>Interaktibitateak</translation>
     </message>
     <message>
         <location filename="../../src/board/UBFeaturesController.cpp" line="339"/>
@@ -1803,12 +1803,12 @@
     <message>
         <location filename="../../src/board/UBFeaturesController.cpp" line="341"/>
         <source>Favorites</source>
-        <translation>Gogokoenak</translation>
+        <translation>Gogokoak</translation>
     </message>
     <message>
         <location filename="../../src/board/UBFeaturesController.cpp" line="342"/>
         <source>Web search</source>
-        <translation>Web bilaketak</translation>
+        <translation>Web bilaketa</translation>
     </message>
     <message>
         <location filename="../../src/board/UBFeaturesController.cpp" line="344"/>
@@ -1832,7 +1832,7 @@
     <message>
         <location filename="../../src/gui/UBFeaturesWidget.cpp" line="630"/>
         <source>Cancel</source>
-        <translation>Ezeztatu</translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBFeaturesWidget.cpp" line="631"/>
@@ -1889,7 +1889,7 @@
     <message>
         <location filename="../../src/domain/UBGraphicsMediaItem.cpp" line="403"/>
         <source>Unsupported media format</source>
-        <translation>Multimedia formatua ez da onargarria</translation>
+        <translation>Multimedia formatua ez da onartzen</translation>
     </message>
     <message>
         <location filename="../../src/domain/UBGraphicsMediaItem.cpp" line="406"/>
@@ -1899,7 +1899,7 @@
     <message>
         <location filename="../../src/domain/UBGraphicsMediaItem.cpp" line="409"/>
         <source>Media error: </source>
-        <translation>Multimedia errorea:</translation>
+        <translation>Multimedia errorea: </translation>
     </message>
 </context>
 <context>
@@ -1915,7 +1915,7 @@
     <message>
         <location filename="../../src/domain/UBGraphicsTextItemDelegate.cpp" line="330"/>
         <source>Text Color</source>
-        <translation>TestuKolorea</translation>
+        <translation>Testuaren kolorea</translation>
     </message>
     <message>
         <location filename="../../src/domain/UBGraphicsTextItemDelegate.cpp" line="456"/>
@@ -1976,7 +1976,7 @@
         <location filename="../../src/adaptors/UBImportDocument.cpp" line="189"/>
         <location filename="../../src/adaptors/UBImportDocument.cpp" line="215"/>
         <source>Import successful.</source>
-        <translation>Inportazio arrakastatsua.</translation>
+        <translation>Inportazioa behar bezala burutu da.</translation>
     </message>
 </context>
 <context>
@@ -1984,7 +1984,7 @@
     <message>
         <location filename="../../src/adaptors/UBImportImage.cpp" line="74"/>
         <source>Image Format (</source>
-        <translation>Irudi formatua (</translation>
+        <translation>Irudi-formatua (</translation>
     </message>
 </context>
 <context>
@@ -1992,7 +1992,7 @@
     <message>
         <location filename="../../src/adaptors/UBImportPDF.cpp" line="65"/>
         <source>Portable Document Format (*.pdf)</source>
-        <translation>Dokumentu formatu eramangarria (*.pdf)</translation>
+        <translation>Portable Document Format (*.pdf)</translation>
     </message>
     <message>
         <location filename="../../src/adaptors/UBImportPDF.cpp" line="77"/>
@@ -2050,7 +2050,7 @@
     <message>
         <location filename="../../src/gui/UBMainWindow.cpp" line="224"/>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
@@ -2066,12 +2066,12 @@
     <message>
         <location filename="../../src/network/UBNetworkAccessManager.cpp" line="121"/>
         <source>&lt;qt&gt;Enter username and password for &quot;%1&quot; at %2&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Sartu erabiltzailea eta pasahitza &quot;%1&quot;  %2n&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Sartu erabiltzaile-izena eta pasahitza &quot;%1&quot;  %2n&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../src/network/UBNetworkAccessManager.cpp" line="153"/>
         <source>Failed to log to Proxy</source>
-        <translation>Proxyra sartzean errorea</translation>
+        <translation>Errorea Proxyra sartzean</translation>
     </message>
     <message>
         <location filename="../../src/network/UBNetworkAccessManager.cpp" line="181"/>
@@ -2106,7 +2106,7 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
     <message>
         <location filename="../../src/gui/UBOpenSankoreImporterWidget.cpp" line="54"/>
         <source>Open-Sankore Documents Detected</source>
-        <translation>Open-Sankore dokumentuak antzemanda</translation>
+        <translation>Open-Sankore dokumentuak atzeman dira</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBOpenSankoreImporterWidget.cpp" line="59"/>
@@ -2126,7 +2126,7 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
     <message>
         <location filename="../../src/gui/UBOpenSankoreImporterWidget.cpp" line="80"/>
         <source>Cancel</source>
-        <translation>Ezeztu</translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBOpenSankoreImporterWidget.cpp" line="86"/>
@@ -2190,17 +2190,17 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
     <message>
         <location filename="../../src/podcast/UBPodcastController.cpp" line="368"/>
         <source>OpenBoard Cast</source>
-        <translation></translation>
+        <translation>Openboard Cast</translation>
     </message>
     <message>
         <location filename="../../src/podcast/UBPodcastController.cpp" line="398"/>
         <source>Failed to start encoder ...</source>
-        <translation>Kodegailuaren hasierak huts egin du...</translation>
+        <translation>Kodeketaren hasierak huts egin du...</translation>
     </message>
     <message>
         <location filename="../../src/podcast/UBPodcastController.cpp" line="403"/>
         <source>No Podcast encoder available ...</source>
-        <translation>Ez dago Podcast kodegailurik erabilgarri...</translation>
+        <translation>Ez dago Podcasta kodeketarik erabilgarri...</translation>
     </message>
     <message>
         <location filename="../../src/podcast/UBPodcastController.cpp" line="574"/>
@@ -2220,7 +2220,7 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
     <message>
         <location filename="../../src/podcast/UBPodcastController.cpp" line="730"/>
         <source>Podcast created %1</source>
-        <translation>%1 Podcasta sortua</translation>
+        <translation>%1 Podcasta sortu da</translation>
     </message>
     <message>
         <location filename="../../src/podcast/UBPodcastController.cpp" line="749"/>
@@ -2286,7 +2286,7 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
     <message>
         <location filename="../../src/adaptors/publishing/UBDocumentPublisher.cpp" line="54"/>
         <source>Username:</source>
-        <translation>Erabiltzailea:</translation>
+        <translation>Erabiltzaile-izena:</translation>
     </message>
     <message>
         <location filename="../../src/adaptors/publishing/UBDocumentPublisher.cpp" line="59"/>
@@ -2322,7 +2322,7 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
     <message>
         <location filename="../../src/core/UBSettings.cpp" line="920"/>
         <source>My Movies</source>
-        <translation>Nire filmak</translation>
+        <translation>Nire bideoak</translation>
     </message>
 </context>
 <context>
@@ -2338,12 +2338,12 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
     <message>
         <location filename="../../src/adaptors/UBThumbnailAdaptor.cpp" line="74"/>
         <source>Generating preview thumbnails ...</source>
-        <translation>Aurreikuste irudiak sortzen...</translation>
+        <translation>Miniatura-irudiak sortzen...</translation>
     </message>
     <message>
         <location filename="../../src/adaptors/UBThumbnailAdaptor.cpp" line="80"/>
         <source>%1 thumbnails generated ...</source>
-        <translation>%1 aurreikuspen sortuak...</translation>
+        <translation>%1 miniatura sortu dira...</translation>
     </message>
 </context>
 <context>
@@ -2376,12 +2376,12 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
     <message>
         <location filename="../../src/tools/UBToolsManager.cpp" line="97"/>
         <source>Magnifier</source>
-        <translation>Handitzailea</translation>
+        <translation>Lupa</translation>
     </message>
     <message>
         <location filename="../../src/tools/UBToolsManager.cpp" line="105"/>
         <source>Cache</source>
-        <translation>Katxea</translation>
+        <translation>Cachea</translation>
     </message>
 </context>
 <context>
@@ -2407,7 +2407,7 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
     <message>
         <location filename="../../src/gui/UBUpdateDlg.cpp" line="69"/>
         <source> files require an update.</source>
-        <translation>fitxategiek eguneraketa behar dute.</translation>
+        <translation>fitxategiek eguneratu behar dira.</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBUpdateDlg.cpp" line="76"/>
@@ -2443,7 +2443,7 @@ Ostalari onentzako errore hauek ez-ikusi nahi dituzu?</translation>
         <location filename="../../src/gui/UBUpdateDlg.cpp" line="201"/>
         <source>Files update successful!
 Please reboot the application to access the updated documents.</source>
-        <translation>Fitxategien eguneraketa ondo egin da!
+        <translation>Fitxategien eguneraketa behar bezala burutu da!
 Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translation>
     </message>
     <message>
@@ -2454,7 +2454,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/gui/UBUpdateDlg.cpp" line="206"/>
         <source>Files update results</source>
-        <translation>Fitxategien eguneraketa emaitzak</translation>
+        <translation>Fitxategien eguneraketaren emaitzak</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBUpdateDlg.cpp" line="216"/>
@@ -2488,12 +2488,12 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/podcast/youtube/UBYouTubePublisher.cpp" line="252"/>
         <source>Error while uploading video to YouTube (%1)</source>
-        <translation>Errorea Youtubeko bideoa igotzean (%1)</translation>
+        <translation>Errorea Youtubeko bideoa kargatzean (%1)</translation>
     </message>
     <message>
         <location filename="../../src/podcast/youtube/UBYouTubePublisher.cpp" line="317"/>
         <source>Upload to YouTube in progress %1 %</source>
-        <translation>Youtubera igotzen % %1 </translation>
+        <translation>Youtubera kargatzen % %1 </translation>
     </message>
 </context>
 <context>
@@ -2501,7 +2501,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/podcast/youtube/UBYouTubePublisher.cpp" line="354"/>
         <source>Upload</source>
-        <translation>Igo</translation>
+        <translation>Kargatu</translation>
     </message>
     <message>
         <location filename="../../src/podcast/youtube/UBYouTubePublisher.cpp" line="400"/>
@@ -2561,12 +2561,12 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/podcast/youtube/UBYouTubePublisher.cpp" line="411"/>
         <source>Howto &amp; Style</source>
-        <translation>Estiloa</translation>
+        <translation>Nola eta Estiloa</translation>
     </message>
     <message>
         <location filename="../../src/podcast/youtube/UBYouTubePublisher.cpp" line="412"/>
         <source>Nonprofits &amp; Activism</source>
-        <translation>Aktibismoa</translation>
+        <translation>Irabazikirk gabekoak eta Aktibismoa</translation>
     </message>
     <message>
         <location filename="../../src/podcast/youtube/UBYouTubePublisher.cpp" line="413"/>
@@ -2600,7 +2600,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/web/browser/WBDownloadManager.cpp" line="165"/>
         <source>Download canceled: %1</source>
-        <translation>Deskarga bertan behera; %1</translation>
+        <translation>Deskarga utzita; %1</translation>
     </message>
     <message>
         <location filename="../../src/web/browser/WBDownloadManager.cpp" line="262"/>
@@ -2615,7 +2615,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/web/browser/WBDownloadManager.cpp" line="283"/>
         <source>Network Error: %1</source>
-        <translation>Sare errorea: %1</translation>
+        <translation>Sareko errorea: %1</translation>
     </message>
     <message>
         <location filename="../../src/web/browser/WBDownloadManager.cpp" line="321"/>
@@ -2641,7 +2641,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
         <location filename="../../src/web/browser/WBDownloadManager.cpp" line="343"/>
         <source>?</source>
         <comment>unknown file size</comment>
-        <translation>?</translation>
+        <translation>Fitxategi tamaina ezezaguna</translation>
     </message>
     <message>
         <location filename="../../src/web/browser/WBDownloadManager.cpp" line="352"/>
@@ -2701,7 +2701,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/web/browser/WBHistory.cpp" line="1025"/>
         <source>%1 items</source>
-        <translation>%1 item</translation>
+        <translation>%1 elementu</translation>
     </message>
 </context>
 <context>
@@ -2717,7 +2717,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/web/browser/WBTabWidget.cpp" line="134"/>
         <source>New &amp;Tab</source>
-        <translation>&amp;Fitxa berria</translation>
+        <translation>Fitxa berria</translation>
     </message>
     <message>
         <location filename="../../src/web/browser/WBTabWidget.cpp" line="137"/>
@@ -2732,7 +2732,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/web/browser/WBTabWidget.cpp" line="145"/>
         <source>Close &amp;Other Tabs</source>
-        <translation>Itxi &amp;beste fitxak</translation>
+        <translation>Itxi &amp;Beste fitxak</translation>
     </message>
     <message>
         <location filename="../../src/web/browser/WBTabWidget.cpp" line="150"/>
@@ -2792,7 +2792,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../../src/web/browser/WBWebView.cpp" line="188"/>
         <source>Download</source>
-        <translation>Jeitsi</translation>
+        <translation>Deskargatu</translation>
     </message>
     <message>
         <location filename="../../src/web/browser/WBWebView.cpp" line="189"/>
@@ -2843,7 +2843,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../forms/youTubePublishingDialog.ui" line="72"/>
         <source>OpenBoard</source>
-        <translation>Open Board</translation>
+        <translation>OpenBoard</translation>
     </message>
     <message>
         <location filename="../forms/youTubePublishingDialog.ui" line="79"/>
@@ -2853,7 +2853,7 @@ Mesedez berrabiarazi aplikazioa eguneratutako dokumentuak irekitzeko.</translati
     <message>
         <location filename="../forms/youTubePublishingDialog.ui" line="105"/>
         <source>YouTube Username</source>
-        <translation>Youtubeko erabiltzailea</translation>
+        <translation>Youtubeko erabiltzaile-izena</translation>
     </message>
     <message>
         <location filename="../forms/youTubePublishingDialog.ui" line="115"/>
@@ -2909,7 +2909,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/brushProperties.ui" line="312"/>
         <source>Strong</source>
-        <translation>Indartsua</translation>
+        <translation>Zabala</translation>
     </message>
     <message>
         <location filename="../forms/brushProperties.ui" line="404"/>
@@ -2924,7 +2924,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/brushProperties.ui" line="505"/>
         <source>Smooth strokes (experimental)</source>
-        <translation>Lerroak lausotu (esperimentala)</translation>
+        <translation>Lausotu trazuak (esperimentala)</translation>
     </message>
     <message>
         <location filename="../forms/brushProperties.ui" line="529"/>
@@ -2973,7 +2973,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/preferences.ui" line="14"/>
         <source>Preferences</source>
-        <translation>Ezarpenak</translation>
+        <translation>Hobespenak</translation>
     </message>
     <message>
         <location filename="../forms/preferences.ui" line="20"/>
@@ -3003,7 +3003,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/preferences.ui" line="95"/>
         <source>Toolbar</source>
-        <translation>Tresna barra</translation>
+        <translation>Tresna-barra</translation>
     </message>
     <message>
         <location filename="../forms/preferences.ui" line="103"/>
@@ -3023,7 +3023,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/preferences.ui" line="183"/>
         <source>Stylus Palette</source>
-        <translation>Luma paleta</translation>
+        <translation>Arkatza paleta</translation>
     </message>
     <message>
         <location filename="../forms/preferences.ui" line="209"/>
@@ -3161,12 +3161,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/trapFlash.ui" line="14"/>
         <source>Trap flash</source>
-        <translation>Flasha harrapatu</translation>
+        <translation>Flasha desbideratu</translation>
     </message>
     <message>
         <location filename="../forms/trapFlash.ui" line="22"/>
         <source>Select a flash to trap</source>
-        <translation>Aukeratu harrapatzeko Flasha</translation>
+        <translation>Aukeratu desbideratzeko Flasha</translation>
     </message>
     <message>
         <location filename="../forms/trapFlash.ui" line="59"/>
@@ -3176,7 +3176,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/trapFlash.ui" line="75"/>
         <source>Application name</source>
-        <translation>Aplikazio izena</translation>
+        <translation>Aplikazioaren izena</translation>
     </message>
     <message>
         <location filename="../forms/trapFlash.ui" line="104"/>
